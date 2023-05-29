@@ -5,3 +5,4 @@ Capitan Ameria
 Thor
 Batman
 Linterna verde
+Blade
