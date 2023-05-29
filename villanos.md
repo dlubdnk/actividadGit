@@ -3,3 +3,4 @@ Octopus
 Duende Verde
 Bane
 Galactus
+Darkseid
